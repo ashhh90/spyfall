@@ -1,0 +1,11 @@
+node_modules
+.idea
+.DS_Store
+public/status.json
+secret.json
+.firebaserc
+.firebaserc.json
+.firebase/
+build/
+functions/lib/*.js
+firebase-debug.log
